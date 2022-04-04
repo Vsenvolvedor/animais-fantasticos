@@ -1,10 +1,10 @@
-import initAnimaNumeros from './animaNumeros.js';
+import initAnimaNumeros from './anima-numeros.js';
 
 export default function initFetchAnimais() {
   function createAnimal(animal) {
     const div = document.createElement('div');
     div.classList.add('numero-animal');
-    div.innerHTML = `<h3>${animal.especie}</h3><span data-numero>${animal.total}</span>`;
+    div.innerHTML = `<h3>${animal.specie}</h3><span data-numero>${animal.total}</span>`;
     return div;
   }
 
@@ -22,5 +22,6 @@ export default function initFetchAnimais() {
       console.log(erro);
     }
   }
+
   fetchAnimais('./animaisapi.json');
 }
