@@ -32,6 +32,7 @@ fetchBitcoin('https://blockchain.info/ticker','.btc-preco');
 const scrollAnima = new ScrollAnima('[data-anime="scroll"]')
 scrollAnima.init()
 
+
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
