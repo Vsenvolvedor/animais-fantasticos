@@ -42,6 +42,6 @@ Projeto criado para o curso de JavaScript da [Origamid](https://www.origamid.com
 
 Para visualizar o projeto é bem simples, basta entrar no link abaixo:
 
-[Animais Fantasticos](https://viteydev.github.io/animais-fantasticos/)
+[Animais Fantasticos](https://vsenvolvedor.github.io/animais-fantasticos/)
 
 #### Feito por Vitor para o curso de JS 👍 | Veja meu [Linkedin](https://www.linkedin.com/in/vitor-lemos-1a61b3238/)
